@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Abhishek 👋
 
-<!--
-**Abhishek-Chouhan2000/Abhishek-Chouhan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst  
+📍 India  
 
-Here are some ideas to get you started:
+I am passionate about analyzing data and converting it into meaningful business insights.  
+Currently building strong hands-on projects in data analytics tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Tools
+- Excel (Advanced, Power Query, Pivot Tables)
+- SQL (Joins, Subqueries, Window Functions)
+- Python (Pandas, NumPy, Matplotlib)
+- Power BI (DAX, KPI Dashboards)
+
+---
+
+### 📂 Featured Projects
+- 📊 Sales Performance Dashboard – Power BI  
+- 🛒 Retail Data Analysis – Excel & SQL
+  
+---
+
+### 🎯 Career Objective
+To secure an entry-level Data Analyst / Junior Data Analyst role where I can apply my analytical skills to solve real business problems.
+
+---
+
+### 📫 Connect With Me
+https://www.linkedin.com/in/abhishekk-chouhan
